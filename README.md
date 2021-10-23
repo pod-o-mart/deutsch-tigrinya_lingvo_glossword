@@ -6,6 +6,8 @@
 
 Die **Transliteration** wurde vom Autor gemäß https://en.wikipedia.org/wiki/Tigrinya_language#Writing_system für alle Einträge vereinheitlicht. Selbstverständlich sind die Einträge auch in der tigrinischen Schrift betrachtbar.
 
+Selbstverständlich werden die Einträge in der tigrinischen Schrift angezeigt. Zusätzlich wurde aber eine **Transliteration** gemäß https://en.wikipedia.org/wiki/Tigrinya_language#Writing_system für alle Einträge hinzugefügt.
+
 Eine **Online-Version** ist unter https://lexis.podolak.net/index.php/index/Deutsch-Tigrinisches+Wörterbuch.xhtml zugänglich.
 
 Eine genaue Beschreibung dieses Repositoriums befindet sich in `deutsch-tigrinya_lingvo_glossword.zip/liesmich.html`.
