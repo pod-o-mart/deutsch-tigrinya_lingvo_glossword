@@ -25,7 +25,7 @@ Anzahl Schlagwörter/Artikel: 2407 / 2454
 
 Informationen über das Wörterbuch finden sich in `deutsch-tigrinya_lingvo_glossword.zip/lingvo/deu-tir_podomart_1_0.ann`.
 
-**Hinweis:** `Falls die Datei deu-tir_podomart_1_0.dsl` direkt aus dem Repo heraus verwendet wird, ist darauf zu achten, die Kodierung der Datei manuell von UTF-8 auf **UTF-16LE (BOM)** zu ändern. Im Zweifelsfall sollte man sich lieber auf die Datei in `deutsch-tigrinya_lingvo_glossword.zip` verlassen. 
+**Hinweis:** Falls die Datei `deu-tir_podomart_1_0.dsl` direkt aus dem Repo heraus verwendet wird, ist darauf zu achten, die Kodierung der Datei manuell von UTF-8 auf **UTF-16LE (BOM)** zu ändern. Im Zweifelsfall sollte man sich lieber auf die Datei in `deutsch-tigrinya_lingvo_glossword.zip` verlassen. 
 
 ## für Glossword `1.8.12`
 
