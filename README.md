@@ -17,7 +17,7 @@ Das Wörterbuch basiert auf folgenden Glossaren:
 - ["Tigrinya Translate Phrasebook", ausgelegt für die Flüchtlingsarbeit](https://www.tigrinyatranslate.com/cm2/phrasebook.php##top)
 
 ## für Lingvo
-Version: 1.0 (20.02.2019)
+Wörterbuchversion: 1.0 (20.02.2019)
 
 Anzahl Schlagwörter/Artikel: 2407 / 2454
 
