@@ -1,4 +1,5 @@
 # Wörterbuch Deutsch-Tigrinya für Lingvo und Glossword
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5593808.svg)](https://doi.org/10.5281/zenodo.5593808)
 
 *Tigrinya (äthiopische Schrift ትግርኛ, tǝgrǝñña, auch Tigrinnya, italienisch Tigrino), deutsch Tigrinisch, ist eine semitische Sprache, die in Äthiopien und Eritrea gesprochen wird. Sie ist zusammen mit der altäthiopischen Sprache aus einer gemeinsamen älteren Vorform entstanden. Die 9 Millionen Sprecher dieser Sprache werden heute in Äthiopien Tigray und in Eritrea Tigrinya genannt.* [Wikipedia](https://de.wikipedia.org/wiki/Tigrinya_(Sprache))
 
